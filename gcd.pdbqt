@@ -1,0 +1,216 @@
+REMARK  Name = /project2/andrewferguson/sachar/test/dE_analysis/gas-phase/gcd/no-sol.pdb
+REMARK  32 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5_4  and  C6_6
+REMARK    2  A    between atoms: C6_6  and  O6_9
+REMARK    3  A    between atoms: C2_11  and  O2_13
+REMARK    4  A    between atoms: C3_15  and  O3_17
+REMARK    5  A    between atoms: C5_25  and  C6_27
+REMARK    6  A    between atoms: C6_27  and  O6_30
+REMARK    7  A    between atoms: C2_32  and  O2_34
+REMARK    8  A    between atoms: C3_36  and  O3_38
+REMARK    9  A    between atoms: C5_46  and  C6_48
+REMARK   10  A    between atoms: C6_48  and  O6_51
+REMARK   11  A    between atoms: C2_53  and  O2_55
+REMARK   12  A    between atoms: C3_57  and  O3_59
+REMARK   13  A    between atoms: C5_67  and  C6_69
+REMARK   14  A    between atoms: C6_69  and  O6_72
+REMARK   15  A    between atoms: C2_74  and  O2_76
+REMARK   16  A    between atoms: C3_78  and  O3_80
+REMARK   17  A    between atoms: C5_88  and  C6_90
+REMARK   18  A    between atoms: C6_90  and  O6_93
+REMARK   19  A    between atoms: C2_95  and  O2_97
+REMARK   20  A    between atoms: C3_99  and  O3_101
+REMARK   21  A    between atoms: C5_109  and  C6_111
+REMARK   22  A    between atoms: C6_111  and  O6_114
+REMARK   23  A    between atoms: C2_116  and  O2_118
+REMARK   24  A    between atoms: C3_120  and  O3_122
+REMARK   25  A    between atoms: C5_130  and  C6_132
+REMARK   26  A    between atoms: C6_132  and  O6_135
+REMARK   27  A    between atoms: C2_137  and  O2_139
+REMARK   28  A    between atoms: C3_141  and  O3_143
+REMARK   29  A    between atoms: C5_151  and  C6_153
+REMARK   30  A    between atoms: C6_153  and  O6_156
+REMARK   31  A    between atoms: C2_158  and  O2_160
+REMARK   32  A    between atoms: C3_162  and  O3_164
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  4GA     1      25.510  18.230  25.610  0.00  0.00    +0.000 C 
+ATOM      2  O5  4GA     1      24.640  18.460  26.700  0.00  0.00    +0.000 OA
+ATOM      3  C5  4GA     1      23.620  19.450  26.470  0.00  0.00    +0.000 C 
+ATOM      4  C2  4GA     1      24.650  17.650  24.500  0.00  0.00    +0.000 C 
+ATOM      5  C3  4GA     1      23.690  18.730  24.010  0.00  0.00    +0.000 C 
+ATOM      6  C4  4GA     1      22.800  19.100  25.210  0.00  0.00    +0.000 C 
+ATOM      7  O4  4GA     1      22.000  20.240  24.850  0.00  0.00    +0.000 OA
+ATOM      8  C1  4GA     2      20.640  20.120  25.250  0.00  0.00    +0.000 C 
+ATOM      9  O5  4GA     2      20.300  21.060  26.270  0.00  0.00    +0.000 OA
+ATOM     10  C5  4GA     2      20.200  22.450  25.910  0.00  0.00    +0.000 C 
+ATOM     11  C2  4GA     2      19.690  20.300  24.060  0.00  0.00    +0.000 C 
+ATOM     12  C3  4GA     2      19.580  21.730  23.590  0.00  0.00    +0.000 C 
+ATOM     13  C4  4GA     2      19.200  22.620  24.770  0.00  0.00    +0.000 C 
+ATOM     14  O4  4GA     2      19.270  23.970  24.310  0.00  0.00    +0.000 OA
+ATOM     15  C1  4GA     3      17.990  24.600  24.230  0.00  0.00    +0.000 C 
+ATOM     16  O5  4GA     3      17.740  25.390  25.390  0.00  0.00    +0.000 OA
+ATOM     17  C5  4GA     3      18.720  26.430  25.620  0.00  0.00    +0.000 C 
+ATOM     18  C2  4GA     3      17.910  25.500  23.000  0.00  0.00    +0.000 C 
+ATOM     19  C3  4GA     3      18.960  26.600  23.090  0.00  0.00    +0.000 C 
+ATOM     20  C4  4GA     3      18.790  27.370  24.400  0.00  0.00    +0.000 C 
+ATOM     21  O4  4GA     3      19.950  28.190  24.530  0.00  0.00    +0.000 OA
+ATOM     22  C1  4GA     4      19.690  29.520  24.980  0.00  0.00    +0.000 C 
+ATOM     23  O5  4GA     4      20.420  29.810  26.170  0.00  0.00    +0.000 OA
+ATOM     24  C5  4GA     4      21.850  29.700  26.060  0.00  0.00    +0.000 C 
+ATOM     25  C2  4GA     4      20.100  30.490  23.870  0.00  0.00    +0.000 C 
+ATOM     26  C3  4GA     4      21.620  30.440  23.670  0.00  0.00    +0.000 C 
+ATOM     27  C4  4GA     4      22.340  30.700  24.990  0.00  0.00    +0.000 C 
+ATOM     28  O4  4GA     4      23.750  30.540  24.790  0.00  0.00    +0.000 OA
+ATOM     29  C1  4GA     5      24.500  31.760  24.790  0.00  0.00    +0.000 C 
+ATOM     30  O5  4GA     5      25.340  31.850  25.940  0.00  0.00    +0.000 OA
+ATOM     31  C5  4GA     5      26.370  30.860  26.050  0.00  0.00    +0.000 C 
+ATOM     32  C2  4GA     5      25.380  31.890  23.540  0.00  0.00    +0.000 C 
+ATOM     33  C3  4GA     5      26.510  30.870  23.510  0.00  0.00    +0.000 C 
+ATOM     34  C4  4GA     5      27.300  30.900  24.820  0.00  0.00    +0.000 C 
+ATOM     35  O4  4GA     5      28.170  29.760  24.840  0.00  0.00    +0.000 OA
+ATOM     36  C1  4GA     6      29.490  30.030  25.330  0.00  0.00    +0.000 C 
+ATOM     37  O5  4GA     6      29.810  29.160  26.410  0.00  0.00    +0.000 OA
+ATOM     38  C5  4GA     6      29.910  27.750  26.110  0.00  0.00    +0.000 C 
+ATOM     39  C2  4GA     6      30.550  29.840  24.240  0.00  0.00    +0.000 C 
+ATOM     40  C3  4GA     6      30.560  28.400  23.750  0.00  0.00    +0.000 C 
+ATOM     41  C4  4GA     6      30.890  27.500  24.940  0.00  0.00    +0.000 C 
+ATOM     42  O4  4GA     6      30.760  26.140  24.520  0.00  0.00    +0.000 OA
+ATOM     43  C1  4GA     7      31.990  25.410  24.540  0.00  0.00    +0.000 C 
+ATOM     44  O5  4GA     7      32.060  24.510  25.650  0.00  0.00    +0.000 OA
+ATOM     45  C5  4GA     7      31.000  23.540  25.720  0.00  0.00    +0.000 C 
+ATOM     46  C2  4GA     7      32.130  24.570  23.260  0.00  0.00    +0.000 C 
+ATOM     47  C3  4GA     7      31.050  23.500  23.170  0.00  0.00    +0.000 C 
+ATOM     48  C4  4GA     7      31.030  22.670  24.460  0.00  0.00    +0.000 C 
+ATOM     49  O4  4GA     7      29.840  21.890  24.450  0.00  0.00    +0.000 OA
+ATOM     50  C1  4GA     8      30.050  20.500  24.190  0.00  0.00    +0.000 C 
+ATOM     51  O5  4GA     8      29.770  19.710  25.360  0.00  0.00    +0.000 OA
+ATOM     52  C5  4GA     8      28.430  19.810  25.850  0.00  0.00    +0.000 C 
+ATOM     53  C2  4GA     8      29.130  20.040  23.060  0.00  0.00    +0.000 C 
+ATOM     54  C3  4GA     8      27.660  20.090  23.460  0.00  0.00    +0.000 C 
+ATOM     55  C4  4GA     8      27.490  19.290  24.750  0.00  0.00    +0.000 C 
+ATOM     56  O4  4GA     8      26.140  19.450  25.200  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH  26  57
+ATOM     57  O3  4GA     4      21.980  31.480  22.750  0.00  0.00    +0.000 OA
+ATOM     58  H3O 4GA     4      22.940  31.410  22.590  0.00  0.00    +0.000 HD
+ENDBRANCH  26  57
+BRANCH  54  59
+ATOM     59  O3  4GA     8      26.900  19.470  22.400  0.00  0.00    +0.000 OA
+ATOM     60  H3O 4GA     8      26.880  20.060  21.630  0.00  0.00    +0.000 HD
+ENDBRANCH  54  59
+BRANCH  53  61
+ATOM     61  O2  4GA     8      29.340  20.890  21.910  0.00  0.00    +0.000 OA
+ATOM     62  H2O 4GA     8      30.160  21.390  22.030  0.00  0.00    +0.000 HD
+ENDBRANCH  53  61
+BRANCH  47  63
+ATOM     63  O3  4GA     7      31.400  22.640  22.060  0.00  0.00    +0.000 OA
+ATOM     64  H3O 4GA     7      31.610  23.200  21.310  0.00  0.00    +0.000 HD
+ENDBRANCH  47  63
+BRANCH  46  65
+ATOM     65  O2  4GA     7      32.050  25.450  22.120  0.00  0.00    +0.000 OA
+ATOM     66  H2O 4GA     7      31.730  26.310  22.420  0.00  0.00    +0.000 HD
+ENDBRANCH  46  65
+BRANCH  40  67
+ATOM     67  O3  4GA     6      31.600  28.260  22.760  0.00  0.00    +0.000 OA
+ATOM     68  H3O 4GA     6      31.470  28.990  22.140  0.00  0.00    +0.000 HD
+ENDBRANCH  40  67
+BRANCH  39  69
+ATOM     69  O2  4GA     6      30.290  30.730  23.130  0.00  0.00    +0.000 OA
+ATOM     70  H2O 4GA     6      29.880  31.550  23.440  0.00  0.00    +0.000 HD
+ENDBRANCH  39  69
+BRANCH  33  71
+ATOM     71  O3  4GA     5      27.410  31.270  22.450  0.00  0.00    +0.000 OA
+ATOM     72  H3O 4GA     5      26.950  31.240  21.600  0.00  0.00    +0.000 HD
+ENDBRANCH  33  71
+BRANCH  32  73
+ATOM     73  O2  4GA     5      24.580  31.710  22.360  0.00  0.00    +0.000 OA
+ATOM     74  H2O 4GA     5      24.630  32.490  21.770  0.00  0.00    +0.000 HD
+ENDBRANCH  32  73
+BRANCH  25  75
+ATOM     75  O2  4GA     4      19.400  30.130  22.660  0.00  0.00    +0.000 OA
+ATOM     76  H2O 4GA     4      19.450  29.170  22.530  0.00  0.00    +0.000 HD
+ENDBRANCH  25  75
+BRANCH  19  77
+ATOM     77  O3  4GA     3      18.750  27.530  22.010  0.00  0.00    +0.000 OA
+ATOM     78  H3O 4GA     3      18.600  27.020  21.200  0.00  0.00    +0.000 HD
+ENDBRANCH  19  77
+BRANCH  18  79
+ATOM     79  O2  4GA     3      18.140  24.730  21.800  0.00  0.00    +0.000 OA
+ATOM     80  H2O 4GA     3      17.480  24.010  21.770  0.00  0.00    +0.000 HD
+ENDBRANCH  18  79
+BRANCH   4  81
+ATOM     81  O2  4GA     1      25.480  17.130  23.450  0.00  0.00    +0.000 OA
+ATOM     82  H2O 4GA     1      24.990  16.440  22.980  0.00  0.00    +0.000 HD
+ENDBRANCH   4  81
+BRANCH  12  83
+ATOM     83  O3  4GA     2      18.530  21.770  22.600  0.00  0.00    +0.000 OA
+ATOM     84  H3O 4GA     2      18.870  21.320  21.810  0.00  0.00    +0.000 HD
+ENDBRANCH  12  83
+BRANCH  11  85
+ATOM     85  O2  4GA     2      20.150  19.520  22.950  0.00  0.00    +0.000 OA
+ATOM     86  H2O 4GA     2      20.340  18.610  23.270  0.00  0.00    +0.000 HD
+ENDBRANCH  11  85
+BRANCH   5  87
+ATOM     87  O3  4GA     1      22.870  18.150  22.960  0.00  0.00    +0.000 OA
+ATOM     88  H3O 4GA     1      23.320  18.310  22.110  0.00  0.00    +0.000 HD
+ENDBRANCH   5  87
+BRANCH   3  89
+ATOM     89  C6  4GA     1      22.830  19.550  27.780  0.00  0.00    +0.000 C 
+BRANCH  89  90
+ATOM     90  O6  4GA     1      22.080  18.340  27.980  0.00  0.00    +0.000 OA
+ATOM     91  H6O 4GA     1      21.980  18.220  28.940  0.00  0.00    +0.000 HD
+ENDBRANCH  89  90
+ENDBRANCH   3  89
+BRANCH  52  92
+ATOM     92  C6  4GA     8      28.320  19.040  27.170  0.00  0.00    +0.000 C 
+BRANCH  92  93
+ATOM     93  O6  4GA     8      29.130  19.660  28.170  0.00  0.00    +0.000 OA
+ATOM     94  H6O 4GA     8      29.860  19.050  28.370  0.00  0.00    +0.000 HD
+ENDBRANCH  92  93
+ENDBRANCH  52  92
+BRANCH  10  95
+ATOM     95  C6  4GA     2      19.840  23.230  27.170  0.00  0.00    +0.000 C 
+BRANCH  95  96
+ATOM     96  O6  4GA     2      18.550  22.810  27.650  0.00  0.00    +0.000 OA
+ATOM     97  H6O 4GA     2      18.340  23.330  28.450  0.00  0.00    +0.000 HD
+ENDBRANCH  95  96
+ENDBRANCH  10  95
+BRANCH  45  98
+ATOM     98  C6  4GA     7      31.180  22.700  26.990  0.00  0.00    +0.000 C 
+BRANCH  98  99
+ATOM     99  O6  4GA     7      30.920  23.530  28.130  0.00  0.00    +0.000 OA
+ATOM    100  H6O 4GA     7      30.280  23.060  28.700  0.00  0.00    +0.000 HD
+ENDBRANCH  98  99
+ENDBRANCH  45  98
+BRANCH  17 101
+ATOM    101  C6  4GA     3      18.390  27.120  26.950  0.00  0.00    +0.000 C 
+BRANCH 101 102
+ATOM    102  O6  4GA     3      17.160  27.860  26.820  0.00  0.00    +0.000 OA
+ATOM    103  H6O 4GA     3      17.020  28.390  27.620  0.00  0.00    +0.000 HD
+ENDBRANCH 101 102
+ENDBRANCH  17 101
+BRANCH  38 104
+ATOM    104  C6  4GA     6      30.330  27.040  27.390  0.00  0.00    +0.000 C 
+BRANCH 104 105
+ATOM    105  O6  4GA     6      31.600  27.580  27.820  0.00  0.00    +0.000 OA
+ATOM    106  H6O 4GA     6      32.130  26.820  28.150  0.00  0.00    +0.000 HD
+ENDBRANCH 104 105
+ENDBRANCH  38 104
+BRANCH  31 107
+ATOM    107  C6  4GA     5      27.090  31.090  27.390  0.00  0.00    +0.000 C 
+BRANCH 107 108
+ATOM    108  O6  4GA     5      27.840  32.310  27.330  0.00  0.00    +0.000 OA
+ATOM    109  H6O 4GA     5      28.270  32.460  28.180  0.00  0.00    +0.000 HD
+ENDBRANCH 107 108
+ENDBRANCH  31 107
+BRANCH  24 110
+ATOM    110  C6  4GA     4      22.520  29.830  27.440  0.00  0.00    +0.000 C 
+BRANCH 110 111
+ATOM    111  O6  4GA     4      21.650  30.420  28.430  0.00  0.00    +0.000 OA
+ATOM    112  H6O 4GA     4      21.590  31.380  28.280  0.00  0.00    +0.000 HD
+ENDBRANCH 110 111
+ENDBRANCH  24 110
+TORSDOF 32
